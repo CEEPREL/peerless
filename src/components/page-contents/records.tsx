@@ -41,10 +41,10 @@ const Records: React.FC = () => {
             }}
           >
             Dashboard ›
+            <span className="text-black  cursor-pointer font-medium">
+              Nitendo
+            </span>
           </div>{" "}
-          <span className="text-black  cursor-pointer font-medium">
-            Nitendo
-          </span>
         </div>
       </div>
 
