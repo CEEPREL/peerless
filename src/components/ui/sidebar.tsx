@@ -35,18 +35,19 @@ const SidebarContent = () => {
   }
 
   const handleCompanyClick = (company: Company) => {
-    dispatch(setSelectedCompany(company));
-
     if (company.company === "Nintendo") {
       router.push("/");
+      dispatch(setSelectedCompany(company));
+    } else {
+      dispatch(setSelectedCompany(company));
     }
   };
 
   return (
     <aside className="w-full  min-h-screen text-sm  bg-black text-white p-4">
       <div className="flex flex-col gap-46">
-        <div onClick={() => router.push("/")}>
-          <div className="mb-4">
+        <div>
+          <div onClick={() => router.push("/")} className="mb-4">
             <Image
               className=""
               width={150}
