@@ -27,7 +27,14 @@ const Records: React.FC = () => {
       <div className="mb-4">
         <div className="text-[22px] font-bold">Nitendo</div>
         <div className="text-sm text-gray-400 mt-1">
-          Dashboard › <span className="text-black font-medium">Nitendo</span>
+          <div
+            onClick={() => {
+              window.history.back();
+            }}
+          >
+            Dashboard ›
+          </div>{" "}
+          <span className="text-black font-medium">Nitendo</span>
         </div>
       </div>
 
