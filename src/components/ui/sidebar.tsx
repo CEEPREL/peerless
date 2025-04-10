@@ -36,7 +36,10 @@ const SidebarContent = () => {
 
   const handleCompanyClick = (company: Company) => {
     dispatch(setSelectedCompany(company));
-    company.company === "Nintendo" ? router.push("/") : null;
+
+    if (company.company === "Nintendo") {
+      router.push("/");
+    }
   };
 
   return (
