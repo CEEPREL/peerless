@@ -1,0 +1,115 @@
+[
+  {
+    "company": "Nintendo",
+    "imgUrl": "/icons/category.svg",
+    "roles": [
+      {
+        "role": "Nursing Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Dog Trainer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Marketing Coordinator",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Web Designer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Medical Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "President of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Medical Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "President of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Medical Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "President of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Medical Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "President of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Medical Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "President of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "Medical Assistant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      },
+      {
+        "role": "President of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..."
+      }
+    ]
+  },
+  {
+    "company": "IBM",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/building.svg"
+  },
+
+  {
+    "company": "The Walt Disney Company",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/personalcard.svg"
+  },
+  {
+    "company": "Louis Vuitton",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/chart.svg"
+  },
+  {
+    "company": "MasterCard",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/card.svg"
+  },
+  {
+    "company": "Pizza Hut",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/document-text.svg"
+  },
+  {
+    "company": "MasterCard-2",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/card.svg"
+  },
+  {
+    "company": "Bank of America",
+    "coming_soon": "Coming soon",
+
+    "imgUrl": "/icons/programming-arrows.svg"
+  }
+]

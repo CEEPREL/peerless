@@ -24,7 +24,7 @@ function ThemeToggle() {
   return (
     <button
       onClick={toggleTheme}
-      className="p-2 rounded-full bg-muted hover:bg-accent transition-all"
+      className="p-2 rounded-full bg-gray-500  hover:bg-gray-300 transition-all"
       aria-label="Toggle theme"
     >
       {/* If the current theme is light, show Moon icon to suggest dark mode is next.

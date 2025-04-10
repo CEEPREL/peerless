@@ -1,13 +1,10 @@
-import ThemeToggle from "@/components/theme-toggle";
+import AutoRedirect from "@/components/page-contents/redirect";
 import React from "react";
 
-function Page() {
+export default function DasboardPage() {
   return (
-    <div className="h-screen transition-all duration-300 bg-white dark:bg-black text-black dark:text-white">
-      <ThemeToggle />
-      home
-    </div>
+    <>
+      <AutoRedirect />
+    </>
   );
 }
-
-export default Page;

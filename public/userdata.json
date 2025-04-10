@@ -1,0 +1,10 @@
+{
+  "user": {
+    "id": "user_001",
+    "name": "Eric Omotolani",
+    "branch": "Ikoyi Branch",
+    "role": "Admin",
+    "access": ["dashboard", "companies", "settings"],
+    "token": "secure_token_12345"
+  }
+}
