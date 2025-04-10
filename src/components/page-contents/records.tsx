@@ -25,16 +25,26 @@ const Records: React.FC = () => {
     <div className="min-h-screen mt-10 bg-[#FAFAFA] p-6 font-sans text-sm text-gray-700">
       {/* Header Section */}
       <div className="mb-4">
-        <div className="text-[22px] font-bold">Nitendo</div>
-        <div className="text-sm text-gray-400 mt-1">
+        <div
+          onClick={() => {
+            window.history.back();
+          }}
+          className="text-[22px] cursor-pointer font-bold"
+        >
+          Nitendo
+        </div>
+        <div className="text-sm  cursor-pointer text-gray-400 mt-1">
           <div
+            className=" cursor-pointer"
             onClick={() => {
               window.history.back();
             }}
           >
             Dashboard ›
           </div>{" "}
-          <span className="text-black font-medium">Nitendo</span>
+          <span className="text-black  cursor-pointer font-medium">
+            Nitendo
+          </span>
         </div>
       </div>
 
