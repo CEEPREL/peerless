@@ -35,7 +35,7 @@ export const Table: React.FC<TableProps> = ({ records }) => {
             <tr
               key={index}
               className={clsx(
-                index % 2 === 0 ? "bg-white" : "bg-[#FAFAFA]",
+                index % 2 === 0 ? "bg-white" : "bg-[#FAF8F7]",
                 "border-b"
               )}
             >
